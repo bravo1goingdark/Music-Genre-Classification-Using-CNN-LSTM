@@ -1,9 +1,5 @@
 ﻿**Project Report: Music Genre Classification using CNN + LSTM**
 
-`                                            `**Name: Ashutosh Kumar**
-
-`                                             `**Reg No: 229302357** 
-
 **1. Introduction**
 
 This project focuses on building a music genre classification system using deep learning. It utilizes **MFCC (Mel Frequency Cepstral Coefficients)** as audio features and combines **Convolutional Neural Networks (CNN)** and **Long Short-Term Memory (LSTM)** networks to learn spatial and temporal features from audio data. The model is trained using **K-Fold Cross-Validation**, and a **frontend** allows users to predict the genre of an audio file.
